@@ -1,0 +1,1 @@
+# gitlab-ci-truffle-test
